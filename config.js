@@ -1,5 +1,5 @@
-{
+var config = {
     "user": "YOUR-GITHUB-USER-NAME",
     "repository": "NAME-OF-GITHUB-REPOSITORY",
-    "render": "README.md"
-}
+    "fileToRender": "now.md"
+};
