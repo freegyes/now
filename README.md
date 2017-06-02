@@ -5,6 +5,8 @@
 ## Demo
 You can see a demo with dummy data [here](https://freegyes.github.io/slash-now/).
 
+![Screenshot](http://i.imgur.com/5gR98rk.png)
+
 ## 2-minute install
 - Fork this repository.
 - Update the `config.js` file with your GitHub username.
