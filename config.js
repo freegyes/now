@@ -1,5 +1,5 @@
 var config = {
-    "user": "YOUR-GITHUB-USER-NAME",
-    "repository": "NAME-OF-GITHUB-REPOSITORY",
-    "fileToRender": "now.md"
+    "user": "freegyes", // Your GitHub username.
+    "repository": "slash-now", // The name of the repository we're in.
+    "fileToRender": "now.md" // The name of the file you'd like to display.
 };
