@@ -1,6 +1,6 @@
 # /now
 
-This lists the projects I'm currently working on. It's a reminder for myself when I'm feeling unfocused. A declaration of priorities[^1].
+This lists the projects and habits I'm currently working on. It's a reminder for myself when I'm feeling unfocused. A declaration of priorities <sup>[1](#footnote-01)</sup>.
 
 ## Projects
 At this point in my life I am focused on these projects (in no particular order):
@@ -14,5 +14,4 @@ At this point in my life I am focused on these habits (in no particular order):
   - eating fresh fruit every day to help my body be healthy
   - writing [750 words](https://750words.com/) first thing in the morning to achieve greater clarity of thoughts
 
-Thanks for the idea, [Derek Sivers](http://sivers.org/).
-[^1]: 
+<a name="footnote-01">1</a>: Thanks for the idea, [Derek Sivers](http://sivers.org/).
